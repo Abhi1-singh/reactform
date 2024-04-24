@@ -1,0 +1,27 @@
+.log{
+    width: 630;
+  height: 100vh;
+  background-color: aqua;
+}
+h1{
+    padding-top: 150PX;
+    color: rgb(219, 95, 37);
+    padding-left: 70PX;
+}
+.email{
+    color: rgb(235, 85, 16);
+    padding-left:20px;
+
+}
+.email, input{
+box-sizing: border-box;
+margin: 10px;
+padding-left: 20px;
+}
+.id{
+    padding-left: 10px;
+    color:gray;
+}
+button{
+margin-left: 60px;
+}
